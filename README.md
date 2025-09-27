@@ -1,2 +1,2 @@
 # data1
-My first test repository
+My first repository
